@@ -1,0 +1,1 @@
+char nim[30], kelasParalel[1], tempatTanggalLahir[30],alamat[50], hobby[30], noHP[20];

@@ -1,0 +1,8 @@
+nilaiA = float(input("Masukkan angka: "))
+nilaiB = float(input("Masukkan angka: "))
+nilaiI = float(input("Masukkan angka: "))
+nilaiJ = float(input("Masukkan angka: "))
+nilaiX = float(input("Masukkan angka: "))
+nilaiY = float(input("Masukkan angka: "))
+result = (nilaiA - nilaiB) * (nilaiI / nilaiJ) - (nilaiX + nilaiY)
+print("{:.3f}".format(result))
