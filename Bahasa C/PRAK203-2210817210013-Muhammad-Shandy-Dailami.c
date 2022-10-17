@@ -16,4 +16,6 @@ int main(){
     scanf("%f", &y);
     result = (a - b) * (i / j) - (x + y);
     printf("%.3f", result);
+
+    return 0;
 }
